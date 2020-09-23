@@ -139,7 +139,7 @@ a:focus {
 }
 
 .text-white {
-    color: #fff;
+    color: black;
 }
 
 
@@ -3791,10 +3791,10 @@ input[type=number]::-webkit-outer-spin-button {
         bottom: 0;
         top: auto;
         transform: translateY(0);
-        background-color: #931b1d;
+        background-color: black;
         text-align: center;
         width: 100%;
-        border: 1px solid #931b1d;
+        border: 1px solid black;
     }
     #mobile-bottom-fixed .col-xs-4 {
         padding: 0;
